@@ -1,0 +1,32 @@
+[
+  {
+    "img": "/img/illustrations/800x800_pinned-image-01.webp",
+    "title": "UI/UX • Web Design • Packaging • Motion • 3D Models",
+    "tags": ["UI/UX", "Web design", "Motion", "3D models"],
+    "desc": "We create visually compelling designs that enhance user experience. We make sure your brand’s visuals resonate with your audience."
+  },
+  {
+    "img": "/img/illustrations/800x800_pinned-image-02.webp",
+    "title": "Frontend • Interactions • Backend • Mobile Apps",
+    "tags": ["Frontend", "Interactions", "Backend", "E-Commerce"],
+    "desc": "We develop fast, scalable, and user-friendly digital experiences built on modern technology.Our development team creates websites and applications that load quickly, work seamlessly across devices, and support long-term business growth. Whether it’s frontend, backend, or full-stack development, we build solutions designed for performance, reliability, and real-world results."
+  },
+  {
+    "img": "/img/illustrations/800x800_pinned-image-03.webp",
+    "title": "Brand Strategy • Logo Design • Guidelines • Rebranding",
+    "tags": [
+      "Brand strategy",
+      "Logo design",
+      "Guidelines",
+      "Visual identity",
+      "Rebranding"
+    ],
+    "desc": "From logo design to comprehensive brand strategies, we ensure your business stands out with a unique visual identity and consistent messaging across all touchpoints."
+  },
+  {
+    "img": "/img/illustrations/800x800_pinned-image-04.webp",
+    "title": "Digital marketing solutions",
+    "tags": ["Social media", "SEO Optimization", "Email", "Campaigns"],
+    "desc": "SEO and content marketing, social media management and paid campaigns - we help you reach and engage your target audience effectively."
+  }
+]
