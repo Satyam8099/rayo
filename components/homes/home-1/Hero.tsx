@@ -43,21 +43,52 @@ export default function Hero() {
                   </div>
                 </div>
                 {/* title marquee */}
-                <div className="mxd-hero-01__marquee loading__item">
-                  <VelocityMarquee className="marquee marquee-right--gsap">
-                    {/* single item */}
-                    {Array.from({ length: 6 }).map((_, index) => (
-                      <div
-                        key={index}
-                        className="marquee__item item-regular text"
-                      >
-                        <p>Marketing Experience</p>
-                        <svg
-                          version="1.1"
-                          xmlns="http://www.w3.org/2000/svg"
-                          viewBox="0 0 80 80"
-                          fill="currentColor"
+                <div 
+                  className="mxd-hero-01__marquee loading__item"
+                 style={{
+                          display: 'inline-flex',
+                          verticalAlign: 'middle',
+                          // Width badhakar 600px+ karni padegi kyunki 60px text bahut jagah lega
+                          width: '500px',  
+                          // Height bhi badhani padegi taaki text vertically fit ho
+                          height: '90px',  
+                          borderRadius: '100px',
+                          background: '#8B5CF6', // Purple color
+                          alignItems: 'center',
+                          overflow: 'hidden'
+                        }}
+                >
+                  <VelocityMarquee direction="left" className="marquee">
+                      {Array.from({ length: 3 }).map((_, index) => (
+                        <div
+                          key={index}
+                          className="marquee__item"
+                          style={{
+                            // display: 'flex',
+                            alignItems: 'center',
+                            // gap: '20px',      // Text aur star ke beech ka gap badhaya
+                            //paddingRight: '40px'
+                          }}
                         >
+                          {/* Yahan Font Size 60px kiya hai */}
+                          <p style={{ 
+                                fontSize: '50px', 
+                             // margin: 0, 
+                             // lineHeight: '1', 
+                              fontWeight: 'bold', // Agar text mota dikhana hai
+                              color: 'white'      // Text color white kiya (purple background ke liye)
+                          }}>
+                            Marketing Experience
+                          </p>
+
+                          {/* Text bada hai toh Star Icon bhi thoda bada karna padega */}
+                          <svg
+                            version="1.1"
+                            xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 80 80"
+                            fill="currentColor"
+                            style={{ width: '30px', height: '30px', color: 'white' }} 
+                          >
                           <path
                             fill="currentColor"
                             d="M78.4,38.4c0,0-11.8,0-15.8,0c-1.6,0-4.8-0.2-7.1-0.8c-2.3-0.6-4.3-0.8-6.3-2.4c-2-1.2-3.5-3.2-4.7-4.8
@@ -79,9 +110,9 @@ export default function Hero() {
                 <h1 className="hero-01-title">
                   <span className="hero-01-title__row loading__item">
                     <em className="hero-01-title__item">AI, Creativity & a 360°</em>
-                    {/* <em className="hero-01-title__item title-item-transparent">
-                      tech
-                    </em> */}
+                    <em className="hero-01-title__item title-item-transparent">
+                      Marketing 
+                    </em>
                   </span>
                   <span className="hero-01-title__row loading__item">
                     <em className="hero-01-title__item title-item-image">
