@@ -21,7 +21,7 @@ export default function Services() {
                   </Link>
                 </div>
                 <div className="mxd-services-stack__title width-60">
-                  <h3 className="opposite">UI/UX • Web Design • Packaging • Motion • 3D Models</h3>
+                  <h3 className="opposite">Digital art and graphic design</h3>
                 </div>
                 <div className="mxd-services-stack__info width-60">
                   <div className="mxd-services-cards__tags">

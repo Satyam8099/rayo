@@ -33,10 +33,8 @@ export default function Testimonials() {
                           <div className="col-12 mxd-grid-item no-margin">
                             <div className="mxd-section-title__descr">
                               <p className="anim-uni-in-up">
-                                We&apos;re more than just executors — we&apos;re
-                                your creative partners. Don&apos;t just take our
-                                word for it, see what clients have to say about
-                                working with us.
+                                The brands we work with see us as an extension of their own team. We listen, we collaborate, and we care about the results as much as they do. 
+                                Here&apos;s what our clients share about their experience working with us.
                               </p>
                             </div>
                           </div>

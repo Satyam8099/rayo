@@ -36,7 +36,7 @@ export default function HomeMainPage() {
         <ServicesStack />
         <Approch />
         <MarqueeSlider />
-        <Awards />
+        {/* <Awards /> */}
         <Testimonials />
         <MarqueeSection2 />
         <Partners />

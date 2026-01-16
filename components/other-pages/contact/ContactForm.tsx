@@ -61,7 +61,7 @@ export default function ContactForm() {
                           <input
                             type="hidden"
                             name="project_name"
-                            defaultValue="Rayo Template"
+                            defaultValue="Adcom Media"
                           />
                           <input
                             type="hidden"

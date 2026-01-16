@@ -70,7 +70,7 @@ Our creative team blends strategy, storytelling, and AI-driven design to craft g
                     </div>
                     <div className="mxd-services-cards__title">
                       <p className="opposite anim-uni-in-up">
-                        Frontend • Interactions • Backend • Mobile Apps
+                        Creative development
                       </p>
                     </div>
                     <div className="mxd-services-cards__info">

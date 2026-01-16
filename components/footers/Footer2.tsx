@@ -8,7 +8,7 @@ export default function Footer2({ text = "rayosttudio" }: { text?: string }) {
   return (
     <footer id="mxd-footer" className="mxd-footer">
       {/* Footer Block - Fullwidth Text Start */}
-      <div className="mxd-footer__text-wrap">
+      {/* <div className="mxd-footer__text-wrap">
         <div className="fullwidth-text__tl-trigger" />
         <div className="mxd-footer__fullwidth-text anim-top-to-bottom">
           {text == "rayosttudio" ? (
@@ -101,7 +101,7 @@ export default function Footer2({ text = "rayosttudio" }: { text?: string }) {
             </svg>
           )}
         </div>
-      </div>
+      </div> */}
       {/* Footer Block - Fullwidth Text End */}
       {/* Footer Block - Info Columns Start */}
       <div className="mxd-footer__footer-blocks">

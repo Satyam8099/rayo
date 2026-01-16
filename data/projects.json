@@ -29,7 +29,7 @@
       "title": "NFT project",
       "description": "branding",
       "previewClass": "preview-image-4",
-      "tags": ["Brand Strategy • Logo Design • Guidelines • Rebranding", "Style guides"],
+      "tags": ["Brand identity", "Style guides"],
       "anim": "anim-uni-in-up"
     },
     {
@@ -345,7 +345,7 @@
       "thumb": "/img/works/preview/600x730_prv-02.webp",
       "image": "/img/works/preview/1200x800_prv-02.webp",
       "title": "NFT project branding",
-      "tags": ["Brand Strategy • Logo Design • Guidelines • Rebranding", "Style guides"],
+      "tags": ["Brand identity", "Style guides"],
       "date": "2025"
     },
     {
@@ -451,7 +451,7 @@
     {
       "id": 4,
       "wrapperClass": "mxd-services-stack__inner showcase-inner bg-base-opp",
-      "title": "Brand Strategy • Logo Design • Guidelines • Rebranding",
+      "title": "Brand identity",
       "titleClass": "opposite",
       "number": "/04",
       "numberClass": "t-opp-muted",

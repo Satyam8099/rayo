@@ -125,9 +125,9 @@ export default function MobileMenu() {
                 className="mxd-menu__caption fade-in-elm"
                 style={{ transitionDelay: "0.4s" }}
               >
-                🦄 Innovative design
+                🦄 Adcom Media
                 <br />
-                and cutting-edge development
+                Where creativity, technology, and performance come together to build standout brands
               </p>
               <div className="main-menu">
                 <nav className="main-menu__content">
@@ -216,9 +216,9 @@ export default function MobileMenu() {
                     className="menu-promo__caption fade-in-elm"
                     style={{ transitionDelay: "0.4s" }}
                   >
-                    👋 New Rayo template is here!
+                    👋 Ready to level up your brand?
                     <br />
-                    Showcase your projects, services and expertise with impact.
+                     Discover how Adcom Media transforms ideas into impactful and performance-driven growth.
                   </p>
                   <div
                     className="menu-promo__video fade-in-up-elm"
@@ -255,7 +255,7 @@ export default function MobileMenu() {
               className="mxd-menu__data fade-in-up-elm"
               style={{ transitionDelay: "0.4s" }}
             >
-              <p className="t-xsmall">
+              {/* <p className="t-xsmall">
                 Made with <i className="ph-fill ph-heart t-additional" /> by{" "}
                 <a
                   className="no-effect"
@@ -264,10 +264,10 @@ export default function MobileMenu() {
                 >
                   ib themes
                 </a>
-              </p>
+              </p> */}
               <p className="t-xsmall">
                 <i className="ph ph-copyright" />
-                2025
+                2025 Adcom Media
               </p>
             </div>
           </div>

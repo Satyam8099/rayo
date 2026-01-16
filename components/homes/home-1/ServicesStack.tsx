@@ -23,7 +23,7 @@ export default function ServicesStack() {
                   </Link>
                 </div>
                 <div className="mxd-services-stack__title width-60">
-                  <h5 className="opposite">UI/UX • Web Design • Packaging • Motion • 3D Models</h5>
+                  <h3 className="opposite">Digital art and graphic design</h3>
                 </div>
                 <div className="mxd-services-stack__info width-60">
                   <div className="mxd-services-cards__tags">
@@ -138,9 +138,9 @@ Our development team creates websites and applications that load quickly, work s
                   </Link>
                 </div>
                 <div className="mxd-services-stack__title width-60">
-                  <h4>
-                    Brand Strategy • Logo Design • Guidelines • Rebranding
-                  </h4>
+                  <h3>
+                    Brand identity
+                  </h3>
                 </div>
                 <div className="mxd-services-stack__info width-60">
                   <div className="mxd-services-cards__tags">
@@ -216,7 +216,7 @@ Our development team creates websites and applications that load quickly, work s
                     </span>
                   </div>
                   <p className="t-small-mobile t-opposite">
-                    We build data-driven marketing systems that focus on results — higher visibility, stronger engagement, and campaigns that convert. From SEO to paid ads, we optimize every touchpoint 
+                    We build data-driven marketing systems that focus on results — higher visibility, stronger engagement, and campaigns that convert. From SEO to paid ads, we optimize every touchpoint to deliver measurable, scalable growth.
                   </p>
                 </div>
                 <div className="services-stack__image">
